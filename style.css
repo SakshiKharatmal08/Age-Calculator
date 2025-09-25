@@ -12,7 +12,12 @@ body {
   place-content: center;
   background: lavender;
 }
-
+body{
+    background: #444;
+}
+body{
+    background: #333;
+}
 .container {
   width: 250px;
   padding: 15px 25px;
